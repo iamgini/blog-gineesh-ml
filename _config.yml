@@ -1,15 +1,15 @@
 # Site
 name: 'നിഴലുകള്‍ പറഞ്ഞത് ...'
 title: "നിഴലുകള്‍ പറഞ്ഞത് ..."
-description: 'ഗിനി ഗംഗാധരന്‍'
+description: '​ഗിനീഷ് മടപ്പറമ്പത്ത്'
 logo: 'assets/images/logo-g-v1.png'
 favicon: 'assets/images/logo-g-v1.png'
 
 #url: "https://www.iamgini.com/"
-my_base_site: "https://www.iamgini.com"
+my_base_site: "https://blog.gineesh.com"
 baseurl: ''
 # If you are building a GitHub project page then use these settings:
-# url: "https://www.iamgini.com/site2/"
+url: "https://blog.gineesh.com"
 # baseurl: "/site2"
 
 disqus: 'iamgini-com'
@@ -31,13 +31,13 @@ plugins:
 authors:
   gini:
     name: Gini
-    display_name: Gini Gangadharan 
-    site: https://www.iamgini.com
+    display_name: Gineesh Madapparambath
+    site: https://gineesh.com
     avatar: 'assets/images/avatar.png'
     gravatar: 1558aaf0c06196e6b9cb24c21e5ca858
     email: net.gini@gmail.com
     bio: "Backpacker, Foodie, Techie"
-    web: https://www.iamgini.com
+    web: https://gineesh.com
     twitter: https://twitter.com/ginigangadharan
     description: "Backpacker, Foodie, Techie"
  
